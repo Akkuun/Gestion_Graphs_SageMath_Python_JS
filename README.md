@@ -6,7 +6,7 @@ Ce projet tutoré consiste à réaliser un outil de gestion de Graph à usage sc
 L'interface de SageMath permet d'afficher le graph voulu sur une page Web, notre rôle est de rendre la manipulation et traitements des graphes la plus intuitive et visuelle possibles.
 
 
-Le graph s'affiche grâce de cette manière : 
+Le graph s'affiche grâce à cette manière : 
 <img width="415" alt="image" src="https://user-images.githubusercontent.com/90316879/156390728-80d496fa-c4f3-4d4a-aab0-fee27015bc53.png">
 
 Voici à quoi ressemble l'interface complète :
