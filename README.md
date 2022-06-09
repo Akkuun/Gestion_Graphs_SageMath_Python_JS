@@ -1,22 +1,14 @@
 # Gestion_Graphs_SageMath_Python_JS
 Gestion_Graphs_SageMath_Python_JS
 
-Ce projet tutoré consiste à réaliser un outil de gestion de Graph à usage scientifique.
-
-L'interface de SageMath permet d'afficher le graph voulu sur une page Web, notre rôle est de rendre la manipulation et traitements des graphes la plus intuitive et visuelle possibles.
+<img width="944" alt="image" src="https://user-images.githubusercontent.com/90316879/172796028-1b51756a-ee69-4542-9499-5cb8240f04ea.png">
 
 
-Le graph s'affiche grâce à cette manière : 
-<img width="415" alt="image" src="https://user-images.githubusercontent.com/90316879/156390728-80d496fa-c4f3-4d4a-aab0-fee27015bc53.png">
+Ce projet tutoré consiste à améliorer une solution réalisé par d'autre étudiants de Licence Pro de L'IUT de Monpellier. Cette solution consiste à réaliser un outil complet de gestion de Graph utilisant l'interface Python de SageMath permettant de nombreuses fonctionnalités grâce à l'interface Python de SageMath.
 
-Voici à quoi ressemble l'interface complète :
-<img width="947" alt="image" src="https://user-images.githubusercontent.com/90316879/156390961-b24b32e5-2d11-4e10-9811-823b15112082.png">
+L'interface de SageMath étant rapidement limité pour les graphs, de nombreuse fonctionnalités ont été réalisés que ce soit côté serveur ou côté utilisateur et fonctionnalités.
 
-Toutes les informations concernant ce projet collaboratif se trouve dans notre rapport :
-
-lien rapport
+Toutes les informations relative au projet se trouve dans notre rapport de projet.
 
 
-
-
-Lien du répo GitHub du groupe : https://github.com/Dalwaj/JS_Graph_Sage/tree/mathis
+Lien du répo GitHub du groupe contenant tout les codes et documentation : https://github.com/Projet-SageMath-Graphs/JS_Graph_Sage
