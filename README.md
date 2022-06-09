@@ -11,4 +11,4 @@ L'interface de SageMath étant rapidement limité pour les graphs, de nombreuse 
 Toutes les informations relative au projet se trouve dans notre rapport de projet.
 
 
-Lien du répo GitHub du groupe contenant tout les codes et documentation : https://github.com/Projet-SageMath-Graphs/JS_Graph_Sage
+Lien du répo GitHub du groupe contenant tout le code et documentation : https://github.com/Projet-SageMath-Graphs/JS_Graph_Sage
